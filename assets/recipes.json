@@ -1,0 +1,126 @@
+[
+    {
+      "id": "1",
+      "name": "Spaghetti Bolognese",
+      "description": "A classic Italian meat sauce served over pasta",
+      "imageUrl": "assets/images/spaghetti.png",
+      "ingredients": ["spaghetti", "ground beef", "onions", "tomato sauce", "red wine"],
+      "steps": ["Cook the spaghetti according to package directions.", "Brown the ground beef and onions.", "Add the tomato sauce and red wine and simmer for 1 hour.", "Toss with cooked spaghetti and serve."],
+      "nutrition": {
+        "calories": 650,
+        "protein": 35, 
+        "prepTime": 60
+      }
+    },
+    {
+      "id": "2",
+      "name": "Chicken Parmesan", 
+      "description": "Breaded chicken breast topped with tomato sauce and mozzarella",
+      "imageUrl": "assets/images/chicken.png",
+      "ingredients": ["chicken breasts", "breadcrumbs", "parmesan", "tomato sauce", "mozzarella"],
+      "steps": ["Bread chicken breasts with breadcrumbs.", "Pan fry until golden brown.", "Top with tomato sauce and mozzarella.", "Bake until cheese is melted."],
+      "nutrition": {
+        "calories": 550,
+        "protein": 45,
+        "prepTime": 30
+      }
+    },
+    
+    {
+      "id": "3",
+      "name": "Caesar Salad",
+      "description": "Romaine lettuce with creamy Caesar dressing, croutons and parmesan", 
+      "imageUrl": "assets/images/salad.png",
+      "ingredients": ["romaine lettuce", "caesar dressing", "croutons", "parmesan"],
+      "steps": ["Chop romaine lettuce.", "Toss with caesar dressing.", "Top with croutons and parmesan."],
+      "nutrition": {
+        "calories": 250,
+        "protein": 10,
+        "prepTime": 10  
+      }
+    },
+    
+    {
+      "id": "4",
+      "name": "Tacos",
+      "description": "Soft tortilla shells filled with seasoned ground beef, lettuce, cheese and salsa",
+      "imageUrl": "assets/images/tacos.png",
+      "ingredients": ["tortillas", "ground beef", "lettuce", "cheese", "salsa"],  
+      "steps": ["Cook ground beef with taco seasoning.", "Warm tortillas.", "Fill with beef, lettuce, cheese and salsa."],
+      "nutrition": {
+        "calories": 500,
+        "protein": 20,
+        "prepTime": 20
+      }
+    },
+    
+    {
+      "id": "5",
+      "name": "Pasta Alfredo",
+      "description": "Fettuccine pasta tossed in a rich, creamy parmesan cheese sauce",
+      "imageUrl": "assets/images/alfredo.png",
+      "ingredients": ["fettuccine", "butter", "cream", "parmesan"],
+      "steps": ["Cook pasta according to package directions.", "Melt butter in a pan.", "Add cream and parmesan and cook until thick and creamy.", "Toss pasta with sauce."],
+      "nutrition": {
+        "calories": 800,
+        "protein": 15,
+        "prepTime": 15
+      }
+    },
+  
+    {
+      "id": "6",
+      "name": "Cheese Pizza", 
+      "description": "Crispy crust with tomato sauce and mozzarella cheese",
+      "imageUrl": "assets/images/pizza.png",
+      "ingredients": ["pizza dough", "tomato sauce", "mozzarella"], 
+      "steps": ["Stretch dough into rounds.", "Top with sauce and cheese.", "Bake until crust is crispy and cheese melted."],
+      "nutrition": {
+        "calories": 700,
+        "protein": 20,
+        "prepTime": 40
+      }
+    },
+    
+    {
+      "id": "7",
+      "name": "Hamburger",
+      "description": "Juicy beef patty with lettuce, tomato, onion and cheese on a bun",
+      "imageUrl": "assets/images/burger.png",
+      "ingredients": ["ground beef", "hamburger buns", "lettuce", "tomato", "onion", "cheese"],
+      "steps": ["Form ground beef into patties and grill.", "Toast buns.", "Place patty on bun and top with lettuce, tomato, onion and cheese."],
+      "nutrition": {
+        "calories": 650,
+        "protein": 25,
+        "prepTime": 15
+      }
+    },
+    
+    {  
+      "id": "8",
+      "name": "Chocolate Chip Cookies",
+      "description": "Chewy cookies filled with chocolate chips",
+      "imageUrl": "assets/images/cookies.png",
+      "ingredients": ["flour", "butter", "sugar", "eggs", "chocolate chips"],
+      "steps": ["Cream butter and sugar.", "Beat in eggs.", "Stir in flour and chocolate chips.", "Scoop dough and bake."],
+      "nutrition": {
+        "calories": 200,
+        "protein": 3,
+        "prepTime": 30
+      }
+    },
+    
+    {
+      "id": "9",
+      "name": "Chicken Fried Rice",
+      "description": "Rice stir-fried with chicken, vegetables and egg",
+      "imageUrl": "assets/images/rice.png",
+      "ingredients": ["rice", "chicken", "vegetables", "egg", "soy sauce"],
+      "steps": ["Cook rice.", "Stir fry chicken and vegetables.", "Add rice and stir fry.", "Scramble egg and mix in.", "Season with soy sauce."],
+      "nutrition": {
+        "calories": 450,
+        "protein": 25,
+        "prepTime": 30
+      }
+    }
+  ]
